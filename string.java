@@ -8,3 +8,4 @@ StrinfBuffer s1=new StringBuffer(s);
 a=s1.reverse.tostring();
 System.out.println(a);
 }
+}
